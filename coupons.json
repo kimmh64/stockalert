@@ -1,5 +1,5 @@
 {
- "lock": true,
+ "lock": false,
  "free_days": 30,
  "codes": [
   "123-1234",
